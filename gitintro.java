@@ -9,6 +9,7 @@ int a = 10;
 int b = 0;
 
 int suma = a + b;
+System.out.println("Cris Angel lumbi Rodriquez 2025-3577U");
 
 System.out.println("Hola, "+ nombre + "!");
 
