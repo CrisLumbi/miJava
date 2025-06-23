@@ -1,7 +1,17 @@
 public class gitintro {
-    // This is a simple Java program to demonstrate a basic structure
 
 public static void main(String[] args) {
-    System.out.println("Hello, World!");
+
+String nombre = "Estudiante";
+
+int a = 10;
+
+int b = 0;
+
+int suma = a + b;
+
+System.out.println("Hola, "+ nombre + "!");
+
+System.out.println("La suma de " + a +"+ "+ b + "es:" + suma);
 }
 }
